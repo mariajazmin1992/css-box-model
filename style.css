@@ -1,0 +1,23 @@
+* {
+    box-sizing: content-box;
+    color: purple;
+}
+
+h1 {
+    color: purple;
+    border-top: 2px paleturquoise dotted;
+    border: 2px red dotted;
+
+    margin-right: 500px;
+    min-width: 120px;
+
+}
+
+mark {
+    background-color: greenyellow
+}
+
+img {
+    border: 15px black;
+    width: 1em;
+}
